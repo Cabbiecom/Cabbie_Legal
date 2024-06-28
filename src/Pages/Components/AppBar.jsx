@@ -89,18 +89,36 @@ const AppBarComponent = () => {
                             onClose={handleClose}
                         >
                             <MenuItem>
-                                <Link to="/">
+                                <Link
+                                    style={{ textDecorationColor: "none", color: "#000" }}
+                                    to="/"
+                                >
                                     Términos y Condiciones
                                 </Link>
                             </MenuItem>
                             <MenuItem>
-                                <Link to="/Privacy">Privacidad</Link>
+                                <Link
+                                    style={{ textDecorationColor: "none", color: "#000" }}
+                                    to="/Privacy"
+                                >
+                                    Privacidad
+                                </Link>
                             </MenuItem>
-                            <MenuItem >
-                                <Link to="/Tutorial">Tutorial </Link>
+                            <MenuItem>
+                                <Link
+                                    style={{ textDecorationColor: "none", color: "#000" }}
+                                    to="/Tutorial"
+                                >
+                                    Tutorial{" "}
+                                </Link>
                             </MenuItem>
-                            <MenuItem >
-                                <Link to="/About">Acerca de </Link>
+                            <MenuItem>
+                                <Link
+                                    style={{ textDecorationColor: "none", color: "#000" }}
+                                    to="/About"
+                                >
+                                    Acerca de{" "}
+                                </Link>
                             </MenuItem>
                         </Menu>
                     </>
@@ -113,17 +131,25 @@ const AppBarComponent = () => {
                             width: "500px",
                         }}
                     >
-                        <Link to="/" >
+                        <Link style={{ textDecorationColor: "none", color: "#000" }} to="/">
                             Términos y Condiciones
                         </Link>
-                        <Link to="/Privacy"
+                        <Link
+                            style={{ textDecorationColor: "none", color: "#000" }}
+                            to="/Privacy"
                         >
                             Privacidad
                         </Link>
-                        <Link to="/Tutorial"  >
+                        <Link
+                            style={{ textDecorationColor: "none", color: "#000" }}
+                            to="/Tutorial"
+                        >
                             Tutorial
                         </Link>
-                        <Link to="/About"  >
+                        <Link
+                            style={{ textDecorationColor: "none", color: "#000" }}
+                            to="/About"
+                        >
                             Acerca de
                         </Link>
                     </Box>
