@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
-import logo from './logo.svg';
 import './App.css';
 import Home from "./Pages/Home";
 import AppBarComponent from "./Pages/Components/AppBar";
