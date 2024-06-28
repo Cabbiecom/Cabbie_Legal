@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cabbie_Legal/static/css/main.771c07c7.css",
-    "main.js": "/Cabbie_Legal/static/js/main.fc3e4508.js",
+    "main.js": "/Cabbie_Legal/static/js/main.8d6ab5c6.js",
     "reactPlayerYouTube.js": "/Cabbie_Legal/static/js/reactPlayerYouTube.6759e10b.chunk.js",
     "reactPlayerSoundCloud.js": "/Cabbie_Legal/static/js/reactPlayerSoundCloud.027fc444.chunk.js",
     "reactPlayerVimeo.js": "/Cabbie_Legal/static/js/reactPlayerVimeo.0a74fdfd.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/security_on.svg": "/Cabbie_Legal/static/media/security_on.395a5770295edd8afabdc9e67bc5743a.svg",
     "index.html": "/Cabbie_Legal/index.html",
     "main.771c07c7.css.map": "/Cabbie_Legal/static/css/main.771c07c7.css.map",
-    "main.fc3e4508.js.map": "/Cabbie_Legal/static/js/main.fc3e4508.js.map",
+    "main.8d6ab5c6.js.map": "/Cabbie_Legal/static/js/main.8d6ab5c6.js.map",
     "reactPlayerYouTube.6759e10b.chunk.js.map": "/Cabbie_Legal/static/js/reactPlayerYouTube.6759e10b.chunk.js.map",
     "reactPlayerSoundCloud.027fc444.chunk.js.map": "/Cabbie_Legal/static/js/reactPlayerSoundCloud.027fc444.chunk.js.map",
     "reactPlayerVimeo.0a74fdfd.chunk.js.map": "/Cabbie_Legal/static/js/reactPlayerVimeo.0a74fdfd.chunk.js.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.771c07c7.css",
-    "static/js/main.fc3e4508.js"
+    "static/js/main.8d6ab5c6.js"
   ]
 }
